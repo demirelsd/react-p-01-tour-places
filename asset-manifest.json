@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/demirelsd/react-p-01-tour-places/static/css/main.0b9bac85.css",
-    "main.js": "/demirelsd/react-p-01-tour-places/static/js/main.440f2994.js",
-    "static/js/787.6c3fad03.chunk.js": "/demirelsd/react-p-01-tour-places/static/js/787.6c3fad03.chunk.js",
-    "index.html": "/demirelsd/react-p-01-tour-places/index.html",
-    "main.0b9bac85.css.map": "/demirelsd/react-p-01-tour-places/static/css/main.0b9bac85.css.map",
-    "main.440f2994.js.map": "/demirelsd/react-p-01-tour-places/static/js/main.440f2994.js.map",
-    "787.6c3fad03.chunk.js.map": "/demirelsd/react-p-01-tour-places/static/js/787.6c3fad03.chunk.js.map"
+    "main.css": "/react-p-01-tour-places/static/css/main.0b9bac85.css",
+    "main.js": "/react-p-01-tour-places/static/js/main.ebceb89c.js",
+    "static/js/787.6c3fad03.chunk.js": "/react-p-01-tour-places/static/js/787.6c3fad03.chunk.js",
+    "index.html": "/react-p-01-tour-places/index.html",
+    "main.0b9bac85.css.map": "/react-p-01-tour-places/static/css/main.0b9bac85.css.map",
+    "main.ebceb89c.js.map": "/react-p-01-tour-places/static/js/main.ebceb89c.js.map",
+    "787.6c3fad03.chunk.js.map": "/react-p-01-tour-places/static/js/787.6c3fad03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b9bac85.css",
-    "static/js/main.440f2994.js"
+    "static/js/main.ebceb89c.js"
   ]
 }
